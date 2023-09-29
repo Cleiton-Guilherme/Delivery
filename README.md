@@ -1,6 +1,6 @@
 # Delivery
 
-<h1 align="center">Hi 👋, I'm iTalents</h1>
+<h1 align="center">Hi 👋, I'm Cleiton</h1>
 <h3 align="center">A frontend developer passionate about HTML5, CSS3 and JavaScript technologies</h3>
 
 - 🔭 I’m currently working on [Market Place Delivery](https://github.com/ITalents/market-place-delivery-front.git)
